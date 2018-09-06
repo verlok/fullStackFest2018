@@ -14,7 +14,7 @@ These are my notes from Full-stack fest 2018 Barcelona conference.
 
 > __abstract__
 
-Notes here
+...
 
 ---
 
