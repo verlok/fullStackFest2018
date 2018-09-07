@@ -132,6 +132,8 @@ Ciao.
 
 My questions
 
-Q: 
+> How can we make sure that authenticators like Apple, Microsoft etc. don't share our biometric data to a central server?
 
-> @__twitterhandle__
+We need to trust manifacturers. Good. We're giving all the power to an enterprise. I think I might prefer passwords :smile:
+
+> @subyraman

@@ -17,3 +17,7 @@ Great overview about what accessibility is and why should we developers assure i
 Also good in-depth talk about the speech recognition API.
 
 (sorry I watched it online and I couldn't take better notes, if you have them please open a PR)
+
+---
+
+> @palmaswell
