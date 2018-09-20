@@ -19,7 +19,6 @@ My full stack fest 2018 notes.
 - [Accessibility vs latest Web APIs - Cant we just get along](Accessibility-vs-latest-Web-APIs-Cant-we-just-get-along.md)
 - [Dynamic CSS Layouts Beyond](Dynamic-CSS-Layouts-Beyond.md)
 - [Killing the checkout or How I learned to stop worrying and love Payment Request](Killing-the-checkout-or-How-I-learned-to-stop-worrying-and-love-Payment-Request.md)
-- [Lightning talks](Lightning talks.md)
 - [Purifying Typescript](Purifying-ypescript.md)
 - [The Web Authentication API Imagine a World Without Passwords](The-Web-Authentication-API-Imagine-a-World-Without-Passwords.md)
 - [WebXR if X how](WebXR-if-X-how.md)
